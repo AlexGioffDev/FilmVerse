@@ -1,7 +1,7 @@
-import { Cast } from "../../types/types";
+import { Person } from "../../types/types";
 
 type PropsPage = {
-  people: Cast;
+  people: Person;
 };
 
 export const CastCard = ({ people }: PropsPage) => {
