@@ -23,6 +23,7 @@
 ## 📸 Screenshot
 
 ![Screenshot of FilmVerse](./screenshots//screenshot.png)
+![Screenshot of FilmVerse](./screenshots//screenshot_1.png)
 
 ## 📄 License
 
